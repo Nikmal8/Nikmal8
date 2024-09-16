@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikmal8
+- 👋 Hi, I’m KAMAL CHARAN
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me kc621843@gmail.com
